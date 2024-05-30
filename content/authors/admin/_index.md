@@ -161,3 +161,6 @@ awards:
     awarder: Datacamp
     icon: datacamp
 ---
+## About Me
+
+As a Bioinformatics Analyst, I'm on a quest to decode the mysteries of genomics with the finesse of a genetic detective,  deciphering the mysteries hidden within DNA strands. From unraveling genetic codes to decoding complex data sets, I thrive on the thrill of scientific exploration. Armed with a Master of Technology in Bioinformatics from Jamia Hamdard and a Bachelor's in Biotechnology from IILM, I'm like a DNA whisperer in the world of tech and science. Whether it's unraveling genetic puzzles or crafting bash scripts like a wizard, I'm always up for a challenge. So, let's geek out over data and uncover the secrets of life together!
