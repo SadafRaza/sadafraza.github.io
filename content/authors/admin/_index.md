@@ -2,9 +2,6 @@
 # Display name
 title: Sadaf Raza
 
-# Name pronunciation (optional)
-name_pronunciation: Sadaf
-
 # Full name (for SEO)
 first_name: Sadaf
 last_name: Raza
