@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: Sadaf Raza
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Sadaf
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Sadaf
+last_name: Raza
 
 # Status emoji
 status:
@@ -20,93 +20,80 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Bioinformatics Analyst II
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: Genique Lifesciences
+    url: https://www.genique.co/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:sadafraza48@gmail.com'
     label: E-mail Me
   - icon: brands/x
-    url: https://twitter.com/GetResearchDev
+    url: https://x.com/svdvf_
   - icon: brands/instagram
-    url: https://www.instagram.com/
+    url: https://www.instagram.com/svdvf_/
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/SadafRaza
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/in/razasadaf/
   - icon: academicons/google-scholar
     url: https://scholar.google.com/
   - icon: academicons/orcid
     url: https://orcid.org/
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Genomics
+  - Multi-omics
+  - Bioinformatics
+  - Gut Microbiome
+  - Cancer Genomics
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: M.Tech in Bioinformatics
+    institution: Jamia Hamdard, India
+    date_start: 2019
+    date_end: 2021
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.8/4.0
+      Thesis on “Identification of High Priority Variants Associated with Neurofibromatosis Type 1: Reanalysis of Whole Exome Data” under the supervision of Dr. Dibyabhabha Pradhan, ICMR AIIMS Computational Genomics Centre, New Delhi.
 
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.4/4.0
-      
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - area: B.Tech Biotechnology
+    institution: IILM CET AHL, IILM UNIVERSITy
+    date_start: 2015
+    date_end: 2019
+
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
-    company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
+  - position: Bioinformatics Analyst II
+    company_name: Genique Lifesciences
+    company_url: 'https://www.genique.co/'
+    company_logo: '![alt text](image.png)'
+    date_start: 2022-01-01
     summary: |2-
       Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
-    company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+      - Contributed to developing and maintaining robust and efficient pipelines and databases for the analysis of large-scale
+genomic data, including whole genome, whole exome, targeted, and microarray data.
+      - Worked to develop pipelines for pharmacogenomics, carrier screening (including Non-invasive Prenatal Testing),
+somatic and germline variant analysis, cnv detection, gwas, and genomic analysis in canine and equine species.
+  - position: Bioinformatics Intern
+    company_name: HackBio
+    date_start: 2021-08-01
+    date_end: 2021-09-31
     summary: |
       Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-
+      - Conducted single-cell RNA sequencing data analysis to study plant root development.
+      - Led a project on re-analyzing Whole Genome data of Plasmodium falciparum.
+  - position: Research Intern
+    company_name: Indian Council of Medical Research, AIIMS
+    date_start: 2021-03-01
+    date_end: 2021-07-31
+    summary: |
+      Responsibilities include:
+      - Identified High Priority variants in Neurofibromatosis Type I disease patients using Whole Exome data.
+      - Contributed to research projects on neurofibromatosis and gained hands-on experience in data analysis.
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
@@ -116,22 +103,22 @@ skills:
         description: ''
         percent: 80
         icon: code-bracket
-      - name: Data Science
+      - name: R
         description: ''
-        percent: 100
+        percent: 80
         icon: chart-bar
-      - name: SQL
+      - name: Bash scripting
         description: ''
-        percent: 40
+        percent: 80
         icon: circle-stack
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: Reading
         description: ''
-        percent: 60
-        icon: person-simple-walk
+        percent: 90
+        icon: 📖
       - name: Cats
         description: ''
         percent: 100
@@ -144,43 +131,39 @@ skills:
 languages:
   - name: English
     percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
+  - name: Urdu
+    percent: 100
+  - name: Hindi
+    percent: 100
 
 # Awards.
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Neural Networks and Deep Learning
-    url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2023-11-25'
-    awarder: Coursera
-    icon: coursera
-    summary: |
-      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
-  - title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    date: '2023-07-01'
-    awarder: edX
-    icon: edx
-    summary: |
-      Learned:
-      - Synthesize your own blockchain solutions
-      - Gain an in-depth understanding of the specific mechanics of Bitcoin
-      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
-  - title: 'Object-Oriented Programming in R'
-    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
-    certificate_url: https://www.datacamp.com
-    date: '2023-01-21'
-    awarder: datacamp
+  - title: CLINICAL VARIANT INTERPRETATION ANALYSIS COURSE
+    url: https://geneyx.com/
+    date: '2024-04-30'
+    awarder: Geneyx Genomics Ltd.
+    icon: Geneyx
+
+  - title: Bioinformatics for Biologists Analysing and Interpreting Genomics Datasets
+    url: https://www.futurelearn.com/certificates/ooow3j1
+    date: '2023-09-01'
+    awarder: Future Learn, Wellcome Connecting Science)
+    icon: Future Learn
+  - title: 'Pharmacogenomics in Clinical Practice'
+    url: https://drive.google.com/file/d/1pyEKka1rMoeZYOAg_1Rf0r8Fo-gtXsmW/view
+    date: '2023-02-28'
+    awarder: IGIB
+    icon: IGIB
+   - title: 'Analyzing Genomic Data in R'
+    url: https://www.datacamp.com/statement-of-accomplishment/track/6180d5ad390f28d90fefc79e1f9011893c6e7712?raw=1
+    date: '2022-11-12'
+    awarder: Datacamp
     icon: datacamp
-    summary: |
-      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
 ---
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+As a Bioinformatics Analyst, I'm on a quest to decode the mysteries of genomics with the finesse of a genetic detective,  deciphering the mysteries hidden within DNA strands. From unraveling genetic codes to decoding complex data sets, I thrive on the thrill of scientific exploration. Armed with a Master of Technology in Bioinformatics from Jamia Hamdard and a Bachelor's in Biotechnology from IILM, I'm like a DNA whisperer in the world of tech and science. Whether it's unraveling genetic puzzles or crafting bash scripts like a wizard, I'm always up for a challenge. So, let's geek out over data and uncover the secrets of life together!
