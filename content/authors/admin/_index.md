@@ -38,10 +38,6 @@ profiles:
     url: https://github.com/SadafRaza
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/razasadaf/
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/
-  - icon: academicons/orcid
-    url: https://orcid.org/
 
 interests:
   - Genomics
@@ -53,15 +49,15 @@ interests:
 education:
   - area: M.Tech in Bioinformatics
     institution: Jamia Hamdard, India
-    date_start: 2019
-    date_end: 2021
+    date_start: 2019-07-01
+    date_end: 2021-08-01
     summary: |
       Thesis on “Identification of High Priority Variants Associated with Neurofibromatosis Type 1: Reanalysis of Whole Exome Data” under the supervision of Dr. Dibyabhabha Pradhan, ICMR AIIMS Computational Genomics Centre, New Delhi.
 
   - area: B.Tech Biotechnology
     institution: IILM CET AHL, IILM UNIVERSITy
-    date_start: 2015
-    date_end: 2019
+    date_start: 2015-07-01
+    date_end: 2019-06-01
 
 work:
   - position: Bioinformatics Analyst II
