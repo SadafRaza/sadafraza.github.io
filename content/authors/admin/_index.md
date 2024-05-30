@@ -79,7 +79,7 @@ work:
   - position: Bioinformatics Intern
     company_name: HackBio
     date_start: 2021-08-01
-    date_end: 2021-09-31
+    date_end: 2021-09-30
     summary: |
       Responsibilities include:
       - Conducted single-cell RNA sequencing data analysis to study plant root development.
