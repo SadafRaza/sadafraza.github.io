@@ -22,7 +22,7 @@ highlight_name: true
 # Role/position/tagline
 role: Bioinformatics Analyst II
 
-# Organizations/Affiliations to display in Biography blox
+# Organizations/Affiliations to display in Biography block
 organizations:
   - name: Genique Lifesciences
     url: https://www.genique.co/
@@ -74,10 +74,8 @@ work:
     date_start: 2022-01-01
     summary: |2-
       Responsibilities include:
-      - Contributed to developing and maintaining robust and efficient pipelines and databases for the analysis of large-scale
-genomic data, including whole genome, whole exome, targeted, and microarray data.
-      - Worked to develop pipelines for pharmacogenomics, carrier screening (including Non-invasive Prenatal Testing),
-somatic and germline variant analysis, cnv detection, gwas, and genomic analysis in canine and equine species.
+      - Contributed to developing and maintaining robust and efficient pipelines and databases for the analysis of large-scale genomic data, including whole genome, whole exome, targeted, and microarray data.
+      - Worked to develop pipelines for pharmacogenomics, carrier screening (including Non-invasive Prenatal Testing), somatic and germline variant analysis, cnv detection, gwas, and genomic analysis in canine and equine species.
   - position: Bioinformatics Intern
     company_name: HackBio
     date_start: 2021-08-01
@@ -157,13 +155,9 @@ awards:
     date: '2023-02-28'
     awarder: IGIB
     icon: IGIB
-   - title: 'Analyzing Genomic Data in R'
+  - title: 'Analyzing Genomic Data in R'
     url: https://www.datacamp.com/statement-of-accomplishment/track/6180d5ad390f28d90fefc79e1f9011893c6e7712?raw=1
     date: '2022-11-12'
     awarder: Datacamp
     icon: datacamp
 ---
-
-## About Me
-
-As a Bioinformatics Analyst, I'm on a quest to decode the mysteries of genomics with the finesse of a genetic detective,  deciphering the mysteries hidden within DNA strands. From unraveling genetic codes to decoding complex data sets, I thrive on the thrill of scientific exploration. Armed with a Master of Technology in Bioinformatics from Jamia Hamdard and a Bachelor's in Biotechnology from IILM, I'm like a DNA whisperer in the world of tech and science. Whether it's unraveling genetic puzzles or crafting bash scripts like a wizard, I'm always up for a challenge. So, let's geek out over data and uncover the secrets of life together!
